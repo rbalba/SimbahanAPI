@@ -1,0 +1,14 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\obj\Debug\Simbahan.Shared.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\bin\Debug\Simbahan.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\bin\Debug\Simbahan.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\obj\Debug\Simbahan.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\obj\Debug\Simbahan.pdb
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\bin\Debug\Simbahan.dll
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\bin\Debug\Simbahan.pdb
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\obj\Debug\Simbahan.dll
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\obj\Debug\Simbahan.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanAPI\Simbahan.Shared\bin\Debug\Simbahan.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanAPI\Simbahan.Shared\bin\Debug\Simbahan.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanAPI\Simbahan.Shared\obj\Debug\Simbahan.Shared.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanAPI\Simbahan.Shared\obj\Debug\Simbahan.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanAPI\Simbahan.Shared\obj\Debug\Simbahan.pdb

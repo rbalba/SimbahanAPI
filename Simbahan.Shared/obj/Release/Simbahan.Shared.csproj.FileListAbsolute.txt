@@ -1,0 +1,10 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\bin\Release\Simbahan.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\bin\Release\Simbahan.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\obj\Release\Simbahan.Shared.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\obj\Release\Simbahan.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\SimbahanApp-20\Simbahan.Shared\obj\Release\Simbahan.pdb
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\bin\Release\Simbahan.dll
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\bin\Release\Simbahan.pdb
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\obj\Release\Simbahan.Shared.csprojResolveAssemblyReference.cache
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\obj\Release\Simbahan.dll
+C:\PROJECTS\SCRIPTSMART\SimbahanAPI\Simbahan.Shared\obj\Release\Simbahan.pdb

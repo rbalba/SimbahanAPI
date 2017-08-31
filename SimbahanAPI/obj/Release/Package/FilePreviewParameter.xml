@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="simbahan-api" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\PROJECTS\\SCRIPTSMART\\SimbahanAPI\\SimbahanAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\PROJECTS\\SCRIPTSMART\\SimbahanAPI\\SimbahanAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="dbconn-Web.config Connection String" description="" value="Data Source=tcp:i354ycp4bi.database.windows.net,1433;Initial Catalog=Simbahan;User ID=scriptsmart@i354ycp4bi;Password=5cr1ptsm@rT" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\PROJECTS\\SCRIPTSMART\\SimbahanAPI\\SimbahanAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbconn']/@connectionString" />
+  </parameter>
+</parameters>
